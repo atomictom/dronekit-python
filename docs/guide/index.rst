@@ -18,3 +18,4 @@ The guide contains how-to documentation for using the DroneKit-Python API. These
     Missions <auto_mode>
     debugging
     mavlink_messages
+    deploying-scripts

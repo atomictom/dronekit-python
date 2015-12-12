@@ -55,6 +55,7 @@ The remaining dependencies are installed when you get DroneKit-Python from the p
     If you are planning to run *DroneKit* on a :ref:`companion computer <supported-companion-computers>`, make sure that the 
     computer runs a variant of Linux that support Python and can install Python packages from the internet.
 
+.. _getting_started_installing_dronekit_mac:
 
 Installing DroneKit on Mac OSX
 ------------------------------
